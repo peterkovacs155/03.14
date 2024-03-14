@@ -1,0 +1,15 @@
+.list-group-item {
+    color: red;
+}
+.page-item {
+    color: green;
+}
+.input-group-text {
+    background-color: aqua;
+}
+.pagination {
+    background-color: brown;
+}
+.form-control {
+    background-color: bisque;
+}
