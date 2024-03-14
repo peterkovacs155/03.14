@@ -1,0 +1,36 @@
+body {
+    background-image: url(back.jpg) ;
+    
+    
+}
+header{
+    background-image: url(panorama.jpg) ;
+    background-repeat: no-repeat;
+    text-align: left;
+    width: 950px;    height: 350px;
+   
+}
+
+
+.section{
+    background-color: lightgreen;
+    width: 400px;
+    height: 400px;
+}
+
+#div1 {
+    
+ float:left;
+ 
+}
+#div2 {
+    
+    float: right;
+}
+tr td {
+    border: 2px solid;
+    border-collapse: collapse;
+}
+table{
+    border-collapse: collapse;
+}
